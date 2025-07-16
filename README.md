@@ -19,7 +19,7 @@ I'm a Computer Science undergraduate at NSS College of Engineering, Palakkad, wi
 
 ## 📬 Let's Connect
 
-📫 Email: rajath032005@gmail.com 
+📫 Email: rajath032005@gmail.com \n
 🔗 [LinkedIn]:https://www.linkedin.com/in/rajath-raj-k-t-349a02300?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bge6yDRHRSgaAIz%2BXoUAP1Q%3D%3D 
 🌐 Portfolio: Coming soon 🚧
 -->
