@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Rajath
 
-<!--
+
 I'm a Computer Science undergraduate at NSS College of Engineering, Palakkad, with a deep interest in **AI**, **Machine Learning**, and **Web Development**. I enjoy learning by building — turning ideas into functional, creative projects.
 
 -🎓 B.Tech CSE (2023–2027) | Honors in Machine Learning 
